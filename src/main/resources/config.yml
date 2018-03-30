@@ -1,0 +1,22 @@
+#  _                                _ ___
+# /      ._ ._ _  ._   _       /\  |_) |
+# \_ |_| |  | (/_ | | (_ \/   /--\ |  _|_
+#                        /
+# A powerful API for handling multiple currencies.
+#
+# Defines the storage method used.
+# The available storage methods are: MYSQL <more coming soon maybe>
+datasource: MYSQL
+#
+# In debug mode the plugin will show several debug messages.
+# Unless you are trying to find a bug or something related to this plugin it's recommended to turn this off (false).
+debug: true
+#
+#
+#
+#
+mysql:
+  address: localhost
+  user: root
+  password: root
+  database: mc

@@ -1,0 +1,8 @@
+main: nl.martenm.currency.CurrencyPlugin
+version: BETA-1.0.0
+author: MartenM
+name: CurrencyApi
+description: A versitile plugin for managing currencies on your server.
+commands:
+  currency:
+    description: "The command to manage currencies with."
